@@ -1,129 +1,30 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(TooManyRequests)
-[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732414946562 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732416824384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
 page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414949628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732416827443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
 page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732414964838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732416830519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
 page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414967894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732416833598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
 page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414970950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732416836738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
 page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414974017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732414989119 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414992187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414995251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732414998305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732415013410 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732415016465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732415031562 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732415034622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732415037686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732415052776 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732415055834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732415058893 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-recently-confirm.gl.at.ply.gg:1042 => 127.0.0.1:19132 (minecraft-bedrock)
-page-accommodation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
